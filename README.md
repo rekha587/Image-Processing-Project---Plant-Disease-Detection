@@ -15,13 +15,13 @@ Our approach for Detecting weather a plant leaf is healthy or unhealthy is by us
 The dataset used for this project has been taken from Plant-Village- Dataset which can be found from online resources. The Data fed for the modeling is of Apple Leaves. For implementation purpose the Dataset comprises of 2 set of images that are Diseased and Healthy which contains images of leaves with respective labels. The Diseased Folder contains diseased/unhealthy, affected by Apple Scab, Black Rot or Cedar Apple Rust, etc. The Healthy Folder consists of Green and healthy images.
 
 ## PROPERTIES OF IMAGES
-Type of File : JPG File.
-Dimensions : 256 * 256.
-Width : 256 Pixels.
-Height : 256 Pixels.
-Horizontal Resolution : 96 dpi.
-Vertical Resolution : 96 dpi.
-Bit Depth : 24.
+1. Type of File : JPG File
+2. Dimensions : 256 * 256
+3. Width : 256 Pixels
+4. Height : 256 Pixels
+5. Horizontal Resolution : 96 dpi
+6. Vertical Resolution : 96 dpi
+7. Bit Depth : 24
 
 # Modules Used:
 
@@ -32,13 +32,13 @@ Bit Depth : 24.
 5. Training and Testing
 
 Machine learning models used:
- Logistic Regression
- Linear Discriminant Analysis
- K Nearest Neighbours
- Decision Trees
- Random Forest
- Naïve Bayes
- Support Vector Machine
+ 1. Logistic Regression
+ 2. Linear Discriminant Analysis
+ 3. K Nearest Neighbours
+ 4. Decision Trees
+ 5. Random Forest
+ 6. Naïve Bayes
+ 7. Support Vector Machine
 And the model will be validated using 10 k fold cross validation technique.
 
 

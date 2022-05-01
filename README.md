@@ -23,6 +23,12 @@ The dataset used for this project has been taken from Plant-Village- Dataset whi
 6. Vertical Resolution : 96 dpi
 7. Bit Depth : 24
 
+## Diseased Leaves
+![image](https://user-images.githubusercontent.com/79393700/166139307-86b1e225-ddba-4314-afd1-9ceaa51d04ef.png)
+
+## Healthy Leaves
+![image](https://user-images.githubusercontent.com/79393700/166139332-72f227d2-e0cb-4337-899f-3ef5809fd66d.png)
+
 # Modules Used:
 
 1. Data preprocessing
